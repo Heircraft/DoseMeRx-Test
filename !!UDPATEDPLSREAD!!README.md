@@ -6,7 +6,7 @@ I decided to use Functional components because I find react hooks to be easier t
 
 I changed the types.ts file to a types.d.ts file so that it inherently declares the types within it, so there's no need to import elsewhere
 
-To remain within a reasonable degree of the time limit I did not add sort functionality as I ran out of time
+To remain within a reasonable degree of the time limit I did not add sort functionality AND did not optimize the dynamic spacing of css elements as window is resized
 
 ## DoseMe Front-end Assessment
 
