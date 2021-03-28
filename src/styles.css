@@ -1,0 +1,89 @@
+@import url("https://fonts.googleapis.com/css2?family=Nunito:wght@400;700&display=swap");
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+body {
+  font-family: "Nunito", sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  color: #444;
+  background: rgb(31,186,223);
+background: linear-gradient(270deg, rgba(31,186,223,1) 0%, rgba(29,123,217,0.17625541907514453) 60%, rgba(29,123,217,0.17625541907514453) 79%, rgba(30,149,219,0) 100%);
+}
+
+body {
+  margin: 10px
+}
+
+h1 {
+  margin-left: 20%
+}
+
+h2, h5 {
+  text-align: right;
+}
+
+Button {
+  position: relative;
+  float:right;
+  margin-right: 15%;
+}
+
+label {
+  display:block;
+  text-align:right;
+}
+
+.deleteLabel {
+  text-align: center;
+  margin-left: 40%
+}
+
+.field {
+  float: right;
+  margin-left: 5%
+}
+
+.error {
+  color: red;
+  float:right;
+  margin-right: -45%;
+}
+
+.wrap {
+  width: 100%;
+  overflow:auto;
+}
+
+#transationForm {
+  float:left; 
+  width: 35%;
+  height: auto;
+  margin-top: 10px;
+}
+
+#displayTransactions {
+  float: right;
+  height: auto;
+  width: 45%;
+}
+
+table td th{
+  font-size: 25px;
+}
+
+#middle {
+  margin-top: 25%
+}
+
+#lower {
+  margin-top: 25%
+}
+
+#lowerDelete {
+  margin-top : 25%
+}
+
