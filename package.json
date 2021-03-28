@@ -1,5 +1,5 @@
 {
-  "name": "react-context-typescript",
+  "name": "front-end-assessment-master",
   "version": "1.0.0",
   "description": "",
   "keywords": [],
@@ -12,7 +12,6 @@
     "@types/reactstrap": "^6.4.3",
     "bootstrap": "^4.6.0",
     "formik": "^2.2.6",
-    "react": "^16.12.0",
     "react-dom": "^16.12.0",
     "react-scripts": "3.4.1",
     "reactstrap": "^8.9.0",
@@ -32,5 +31,9 @@
     "not dead",
     "not ie <= 11",
     "not op_mini all"
-  ]
+  ],
+  "devDependencies": {
+    "@types/babel__core": "^7.1.14",
+    "typescript": "^4.2.3"
+  }
 }
